@@ -20,7 +20,7 @@ body {
    "footer footer"
    ;
    gap: 10px;
-   /*background: linear-gradient(to right, black, bisque );*/
+   background: linear-gradient(to right, black, bisque );
 }
 
 h1{
@@ -72,12 +72,12 @@ nav a {
    /*opacity: 0.8;*/
 }
 
-/*
+
 .imagenFolleto:hover {
    filter: sepia(60%);
   
 
-}*/
+}
 
 .imagen {
       display: flex;
